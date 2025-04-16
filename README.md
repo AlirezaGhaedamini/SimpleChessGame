@@ -25,4 +25,4 @@ A basic object-oriented chess game implemented in Java as part of a university p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/your-username/your-repo-name.git](https://github.com/AlirezaGhaedamini/SimpleChessGame.git
